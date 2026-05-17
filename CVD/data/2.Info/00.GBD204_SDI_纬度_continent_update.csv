@@ -1,0 +1,205 @@
+FID,name,iso_a3,SDI,Area,Zone,Continent
+198,Afghanistan,AFG,Low SDI,6.42E+11,Middle_Lat,AS
+194,Angola,AGO,Low-middle SDI,1.24E+12,Low_Lat,AF
+197,Albania,ALB,Middle SDI,28373045264,Middle_Lat,EU
+195,Andorra,AND,High SDI,442539573,Middle_Lat,EU
+18,United Arab Emirates,ARE,High SDI,71114007290,Low_Lat,AS
+192,Argentina,ARG,High-middle SDI,2.78E+12,Middle_Lat,SA
+191,Armenia,ARM,Middle SDI,29590803920,Middle_Lat,AS
+13,American Samoa,ASM,High-middle SDI,119963706.5,Low_Lat,OC
+193,Antigua and Barb.,ATG,High-middle SDI,431410838.3,Low_Lat,NA
+190,Australia,AUS,High SDI,7.69E+12,Low_Lat,OC
+189,Austria,AUT,High SDI,84148449349,Middle_Lat,EU
+188,Azerbaijan,AZE,Middle SDI,86500854132,Middle_Lat,EU
+171,Burundi,BDI,Low SDI,27086921679,Low_Lat,AF
+182,Belgium,BEL,High SDI,30739448249,Middle_Lat,EU
+180,Benin,BEN,Low SDI,1.16E+11,Low_Lat,AF
+172,Burkina Faso,BFA,Low SDI,2.73E+11,Low_Lat,AF
+185,Bangladesh,BGD,Low-middle SDI,1.35E+11,Low_Lat,AS
+173,Bulgaria,BGR,High-middle SDI,1.13E+11,Middle_Lat,EU
+186,Bahrain,BHR,High-middle SDI,540459464.7,Low_Lat,AS
+187,Bahamas,BHS,High-middle SDI,12640168200,Low_Lat,NA
+177,Bosnia and Herz.,BIH,High-middle SDI,51789675527,Middle_Lat,EU
+183,Belarus,BLR,High-middle SDI,2.08E+11,Middle_Lat,EU
+181,Belize,BLZ,Low-middle SDI,22705203349,Low_Lat,NA
+16,Bermuda,BMU,High SDI,65937775.26,Middle_Lat,NA
+178,Bolivia,BOL,Low-middle SDI,1.09E+12,Low_Lat,SA
+175,Brazil,BRA,Middle SDI,8.47E+12,Low_Lat,SA
+184,Barbados,BRB,High-middle SDI,387828401,Low_Lat,NA
+174,Brunei,BRN,High SDI,5647174664,Low_Lat,AS
+179,Bhutan,BTN,Low-middle SDI,39811349126,Middle_Lat,SA
+176,Botswana,BWA,Middle SDI,5.79E+11,Low_Lat,AF
+165,Central African Rep.,CAF,Low SDI,6.18E+11,Low_Lat,AF
+167,Canada,CAN,High SDI,9.92E+12,Middle_Lat,NA
+33,Switzerland,CHE,High SDI,41316161301,Middle_Lat,EU
+163,Chile,CHL,High-middle SDI,7.38E+11,Middle_Lat,SA
+162,China,CHN,Middle SDI,9.37E+12,Middle_Lat,AS
+156,Côte d'Ivoire,CIV,Low SDI,3.21E+11,Low_Lat,AF
+168,Cameroon,CMR,Low-middle SDI,4.64E+11,Low_Lat,AF
+158,Dem. Rep. Congo,COD,Low SDI,2.32E+12,Low_Lat,AF
+159,Congo,COG,Low-middle SDI,3.45E+11,Low_Lat,AF
+78,Cook Is.,COK,High-middle SDI,60488815.46,Middle_Lat,OC
+161,Colombia,COL,Middle SDI,1.13E+12,Low_Lat,SA
+160,Comoros,COM,Low SDI,1579638186,Low_Lat,AF
+166,Cabo Verde,CPV,Low-middle SDI,3572635667,Low_Lat,AF
+157,Costa Rica,CRI,Middle SDI,51303384528,Low_Lat,NA
+154,Cuba,CUB,Middle SDI,1.09E+11,Low_Lat,NA
+153,Cyprus,CYP,High SDI,9179152704,Middle_Lat,EU
+152,Czechia,CZE,High SDI,78743859331,Middle_Lat,EU
+134,Germany,DEU,High SDI,3.57E+11,Middle_Lat,EU
+149,Djibouti,DJI,Low-middle SDI,21618915246,Low_Lat,AF
+148,Dominica,DMA,High-middle SDI,695387777,Low_Lat,NA
+151,Denmark,DNK,High SDI,42618411249,Middle_Lat,EU
+147,Dominican Rep.,DOM,Low-middle SDI,48440038109,Low_Lat,NA
+196,Algeria,DZA,Middle SDI,2.32E+12,Middle_Lat,AF
+146,Ecuador,ECU,Middle SDI,2.55E+11,Low_Lat,SA
+145,Egypt,EGY,Middle SDI,1.00E+12,Low_Lat,AF
+142,Eritrea,ERI,Low SDI,1.23E+11,Low_Lat,AF
+40,Spain,ESP,High-middle SDI,5.07E+11,Middle_Lat,EU
+141,Estonia,EST,High SDI,45694636967,Middle_Lat,EU
+140,Ethiopia,ETH,Low SDI,1.13E+12,Low_Lat,AF
+138,Finland,FIN,High SDI,3.33E+11,Middle_Lat,EU
+139,Fiji,FJI,Middle SDI,18346452513,Low_Lat,OC
+202,France,FRA,High SDI,5.47E+11,Middle_Lat,EU
+8,Micronesia,FSM,Low-middle SDI,521859751.6,Middle_Lat,OC
+137,Gabon,GAB,Middle SDI,2.60E+11,Low_Lat,AF
+17,United Kingdom,GBR,High SDI,2.41E+11,Middle_Lat,EU
+135,Georgia,GEO,High-middle SDI,69413461690,Middle_Lat,EU
+133,Ghana,GHA,Low-middle SDI,2.39E+11,Low_Lat,AF
+129,Guinea,GIN,Low SDI,2.44E+11,Low_Lat,AF
+136,Gambia,GMB,Low SDI,10274961053,Low_Lat,AF
+128,Guinea-Bissau,GNB,Low SDI,31931088727,Low_Lat,AF
+143,Eq. Guinea,GNQ,Middle SDI,26525017735,Low_Lat,AF
+132,Greece,GRC,High-middle SDI,1.30E+11,Middle_Lat,EU
+131,Grenada,GRD,Middle SDI,284915029.9,Low_Lat,NA
+150,Greenland,GRL,High-middle SDI,2.17E+12,High_Lat,NA
+130,Guatemala,GTM,Low-middle SDI,1.08E+11,Low_Lat,NA
+12,Guam,GUM,High SDI,480437129.9,Middle_Lat,OC
+127,Guyana,GUY,Middle SDI,2.11E+11,Low_Lat,SA
+125,Honduras,HND,Low-middle SDI,1.13E+11,Low_Lat,NA
+155,Croatia,HRV,High-middle SDI,54542966613,Middle_Lat,EU
+126,Haiti,HTI,Low SDI,26722975692,Low_Lat,NA
+124,Hungary,HUN,High-middle SDI,93213091751,Middle_Lat,EU
+121,Indonesia,IDN,Middle SDI,1.86E+12,Low_Lat,AS
+122,India,IND,Low-middle SDI,3.15E+12,Low_Lat,AS
+118,Ireland,IRL,High SDI,68982780473,Middle_Lat,EU
+120,Iran,IRN,Middle SDI,1.62E+12,Middle_Lat,AS
+119,Iraq,IRQ,Middle SDI,4.37E+11,Middle_Lat,AS
+123,Iceland,ISL,High SDI,1.02E+11,High_Lat,EU
+116,Israel,ISR,High-middle SDI,22032247343,Middle_Lat,AS
+115,Italy,ITA,High-middle SDI,3.01E+11,Middle_Lat,EU
+114,Jamaica,JAM,Middle SDI,10897442369,Low_Lat,NA
+112,Jordan,JOR,High-middle SDI,88781974574,Middle_Lat,AS
+113,Japan,JPN,High SDI,3.70E+11,Middle_Lat,AS
+111,Kazakhstan,KAZ,High-middle SDI,2.72E+12,Middle_Lat,EU
+110,Kenya,KEN,Low-middle SDI,5.92E+11,Low_Lat,AF
+107,Kyrgyzstan,KGZ,Low-middle SDI,1.99E+11,Middle_Lat,AS
+169,Cambodia,KHM,Low-middle SDI,1.81E+11,Low_Lat,AS
+109,Kiribati,KIR,Low-middle SDI,933385077.8,Low_Lat,OC
+57,St. Kitts and Nevis,KNA,High-middle SDI,232172591.3,Low_Lat,NA
+41,South Korea,KOR,High SDI,97173668573,Middle_Lat,AS
+108,Kuwait,KWT,High SDI,17307759173,Low_Lat,AS
+106,Laos,LAO,Low-middle SDI,2.28E+11,Low_Lat,AS
+104,Lebanon,LBN,High-middle SDI,10008140581,Middle_Lat,AS
+102,Liberia,LBR,Low SDI,95255043200,Low_Lat,AF
+101,Libya,LBY,High-middle SDI,1.62E+12,Low_Lat,AF
+56,Saint Lucia,LCA,Middle SDI,549270961.3,Low_Lat,NA
+39,Sri Lanka,LKA,High-middle SDI,65763394891,Low_Lat,AS
+103,Lesotho,LSO,Low-middle SDI,29991129945,Low_Lat,AF
+100,Lithuania,LTU,High SDI,64815354311,Middle_Lat,EU
+99,Luxembourg,LUX,High SDI,2620632363,Middle_Lat,EU
+105,Latvia,LVA,High SDI,64577647708,Middle_Lat,EU
+84,Morocco,MAR,Low-middle SDI,4.04E+11,Middle_Lat,AF
+88,Monaco,MCO,High SDI,12439161.72,Middle_Lat,EU
+87,Moldova,MDA,High-middle SDI,33207601166,Middle_Lat,EU
+97,Madagascar,MDG,Low SDI,5.93E+11,Low_Lat,AF
+94,Maldives,MDV,Low-middle SDI,66118992.32,Middle_Lat,AS
+89,Mexico,MEX,Middle SDI,1.96E+12,Low_Lat,NA
+9,Marshall Is.,MHL,Low-middle SDI,236421076.7,Low_Lat,OC
+98,North Macedonia,MKD,High-middle SDI,25400379317,Middle_Lat,EU
+93,Mali,MLI,Low SDI,1.25E+12,Low_Lat,AF
+92,Malta,MLT,High-middle SDI,273809097.3,Middle_Lat,EU
+170,Myanmar,MMR,Low-middle SDI,6.61E+11,Low_Lat,AS
+85,Montenegro,MNE,High-middle SDI,13690072344,Middle_Lat,EU
+86,Mongolia,MNG,Low-middle SDI,1.56E+12,Middle_Lat,AS
+10,N. Mariana Is.,MNP,High-middle SDI,392137492.6,Middle_Lat,OC
+83,Mozambique,MOZ,Low SDI,7.88E+11,Low_Lat,AF
+91,Mauritania,MRT,Low-middle SDI,1.04E+12,Low_Lat,AF
+90,Mauritius,MUS,High-middle SDI,1873864968,Low_Lat,AF
+96,Malawi,MWI,Low SDI,1.19E+11,Low_Lat,AF
+95,Malaysia,MYS,High-middle SDI,3.26E+11,Low_Lat,AS
+82,Namibia,NAM,Middle SDI,8.23E+11,Low_Lat,AF
+74,Niger,NER,Low SDI,1.18E+12,Low_Lat,AF
+73,Nigeria,NGA,Low-middle SDI,9.08E+11,Low_Lat,AF
+75,Nicaragua,NIC,Low-middle SDI,1.29E+11,Low_Lat,NA
+77,Niue,NIU,High-middle SDI,196381608.1,Middle_Lat,OC
+79,Netherlands,NLD,High SDI,37276249115,Middle_Lat,EU
+201,Norway,NOR,High SDI,3.24E+11,High_Lat,EU
+80,Nepal,NPL,Low SDI,1.47E+11,Low_Lat,AS
+81,Nauru,NRU,Middle SDI,27670875.12,Middle_Lat,OC
+76,New Zealand,NZL,High SDI,2.67E+11,Middle_Lat,OC
+71,Oman,OMN,High-middle SDI,3.11E+11,Low_Lat,AS
+70,Pakistan,PAK,Low SDI,8.75E+11,Low_Lat,AS
+68,Panama,PAN,Middle SDI,73934530019,Low_Lat,NA
+65,Peru,PER,Middle SDI,1.29E+12,Low_Lat,SA
+64,Philippines,PHL,Middle SDI,2.89E+11,Low_Lat,AS
+69,Palau,PLW,High-middle SDI,339173213.1,Middle_Lat,OC
+67,Papua New Guinea,PNG,Low SDI,4.62E+11,Low_Lat,OC
+63,Poland,POL,High-middle SDI,3.14E+11,Middle_Lat,EU
+14,Puerto Rico,PRI,High SDI,8915151698,Low_Lat,NA
+72,North Korea,PRK,Low-middle SDI,1.23E+11,Middle_Lat,AS
+62,Portugal,PRT,High-middle SDI,90845581938,Middle_Lat,EU
+66,Paraguay,PRY,Middle SDI,4.00E+11,Low_Lat,SA
+117,Palestine,PSE,Low-middle SDI,6328723326,Middle_Lat,AS
+61,Qatar,QAT,High SDI,11051622481,Low_Lat,AS
+60,Romania,ROU,High-middle SDI,2.36E+11,Middle_Lat,EU
+59,Russia,RUS,High-middle SDI,1.70E+13,Middle_Lat,EU
+58,Rwanda,RWA,Low SDI,25272599693,Low_Lat,AF
+51,Saudi Arabia,SAU,High SDI,1.92E+12,Low_Lat,AS
+38,Sudan,SDN,Low-middle SDI,1.86E+12,Low_Lat,AF
+50,Senegal,SEN,Low SDI,1.97E+11,Low_Lat,AF
+46,Singapore,SGP,High SDI,482778319.6,Low_Lat,AS
+43,Solomon Is.,SLB,Low SDI,25633468439,Low_Lat,OC
+47,Sierra Leone,SLE,Low SDI,71576019656,Low_Lat,AF
+144,El Salvador,SLV,Low-middle SDI,20316067264,Low_Lat,NA
+53,San Marino,SMR,High SDI,68394393.91,Middle_Lat,EU
+42,Somalia,SOM,Low SDI,6.39E+11,Low_Lat,AF
+49,Serbia,SRB,High-middle SDI,88578001528,Middle_Lat,EU
+37,S. Sudan,SSD,Low SDI,6.21E+11,Low_Lat,AF
+52,São Tom?and Principe,STP,Low-middle SDI,981456718,Middle_Lat,AF
+36,Suriname,SUR,Middle SDI,1.45E+11,Low_Lat,SA
+44,Slovakia,SVK,High SDI,48489110536,Middle_Lat,EU
+45,Slovenia,SVN,High SDI,20244574637,Middle_Lat,EU
+34,Sweden,SWE,High SDI,4.46E+11,Middle_Lat,EU
+35,eSwatini,SWZ,Low-middle SDI,16961647251,Low_Lat,AF
+48,Seychelles,SYC,High-middle SDI,173635691.3,Middle_Lat,AF
+32,Syria,SYR,Middle SDI,1.86E+11,Middle_Lat,AS
+164,Chad,TCD,Low SDI,1.27E+12,Low_Lat,AF
+26,Togo,TGO,Low SDI,56901182809,Low_Lat,AF
+28,Thailand,THA,Middle SDI,5.14E+11,Low_Lat,AS
+30,Tajikistan,TJK,Low-middle SDI,1.42E+11,Middle_Lat,AS
+200,Tokelau,TKL,Middle SDI,4776624.134,Middle_Lat,OC
+21,Turkmenistan,TKM,Middle SDI,4.71E+11,Middle_Lat,AS
+27,Timor-Leste,TLS,Low-middle SDI,14958474353,Low_Lat,AS
+25,Tonga,TON,Middle SDI,430302697.2,Low_Lat,OC
+24,Trinidad and Tobago,TTO,High-middle SDI,5081937806,Low_Lat,NA
+23,Tunisia,TUN,Middle SDI,1.57E+11,Middle_Lat,AF
+22,Turkey,TUR,High-middle SDI,7.80E+11,Middle_Lat,AS
+199,Tuvalu,TUV,Low-middle SDI,10208002.15,Middle_Lat,OC
+31,Taiwan(Province of China),TWN,High SDI,35911132042,Low_Lat,AS
+29,Tanzania,TZA,Low SDI,9.42E+11,Low_Lat,AF
+20,Uganda,UGA,Low SDI,2.41E+11,Low_Lat,AF
+19,Ukraine,UKR,High-middle SDI,5.72E+11,Middle_Lat,EU
+7,Uruguay,URY,High-middle SDI,1.77E+11,Middle_Lat,SA
+15,United States of America,USA,High SDI,9.46E+12,Middle_Lat,NA
+6,Uzbekistan,UZB,Middle SDI,4.48E+11,Middle_Lat,AS
+55,St. Vin. and Gren.,VCT,Middle SDI,309915713.3,Low_Lat,NA
+4,Venezuela,VEN,Low-middle SDI,9.10E+11,Low_Lat,SA
+11,U.S. Virgin Is.,VIR,High-middle SDI,314808365.5,Middle_Lat,NA
+3,Vietnam,VNM,Middle SDI,3.28E+11,Low_Lat,AS
+5,Vanuatu,VUT,Low-middle SDI,11253584682,Low_Lat,OC
+54,Samoa,WSM,Middle SDI,2691690675,Low_Lat,OC
+2,Yemen,YEM,Low SDI,4.53E+11,Low_Lat,AS
+203,South Africa,ZAF,Middle SDI,1.22E+12,Low_Lat,AF
+1,Zambia,ZMB,Low-middle SDI,7.53E+11,Low_Lat,AF
+0,Zimbabwe,ZWE,Low-middle SDI,3.89E+11,Low_Lat,AF

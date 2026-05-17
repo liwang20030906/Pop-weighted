@@ -1,0 +1,15 @@
+#可视化疾病长时序趋势变化
+
+library(readr)
+library(dplyr)
+library(ggplot2)
+library(segmented)
+library(knitr)
+library(kableExtra)
+library(table1)
+library(boot)
+library(webshot)
+library(ggthemes)
+library(broom)
+library(pheatmap)
+library(tibble)
